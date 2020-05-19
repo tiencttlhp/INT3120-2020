@@ -1,3 +1,4 @@
+//Nên tách file ra
 import * as React from 'react';
 import { View, Text,StyleSheet,ScrollView,Button, Image } from 'react-native';
 import { NavigationContainer, StackActions } from '@react-navigation/native';
