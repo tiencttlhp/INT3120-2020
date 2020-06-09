@@ -26,13 +26,13 @@ export default () => {
         title='Click Here'
         checked={this.state.checked}
         />
-        <Text>ĐÁp án 2</Text>
+        <Text>Đáp án 2</Text>
         </View>
         <View style={{flex="row"}}><CheckBox
         title='Click Here'
         checked={this.state.checked}
         />
-        <Text>ĐÁp án 3</Text>
+        <Text>Đáp án 3</Text>
         </View>
             
     </View>
@@ -41,25 +41,22 @@ export default () => {
         title='Click Here'
         checked={this.state.checked}
         />
-        <Text>ĐÁp án 1</Text>
+        <Text>Đáp án 1</Text>
         </View>
         <View style={{flex="row"}}><CheckBox
         title='Click Here'
         checked={this.state.checked}
         />
-        <Text>ĐÁp án 2</Text>
+        <Text>Đáp án 2</Text>
         </View>
         <View style={{flex="row"}}><CheckBox
         title='Click Here'
         checked={this.state.checked}
         />
-        <Text>ĐÁp án 3</Text>
+        <Text>Đáp án 3</Text>
         </View>
             
     </View>
-    
-       
-   
          
   </ScrollableTabView>;
 }
