@@ -9,7 +9,7 @@ export default class TrangChu extends Component{
                 >
                    <Icon style={style.pad} name='circle' />
                    <Text style={{fontSize:17,flex:4,marginTop:27}} onPress={() =>
-                    this.props.navigation.navigate('Khái Niệm và quy tắc')
+                    this.props.navigation.navigate('Khái niệm và quy tắc')
                 } >Khái niệm và quy tắc (75 câu)</Text>
                 </View>
                 <View style={style.icon}>
